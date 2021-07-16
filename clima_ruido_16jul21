@@ -1,0 +1,6645 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": 54.5,
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2021-07-16T14:54:14Z",
+        "dc:identifier": 481,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/481.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8081,
+          43.46477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 23.22,
+        "dc:modified": "2021-07-16T14:54:11Z",
+        "dc:identifier": 283,
+        "ayto:light": 384.14,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/283.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79916,
+          43.46337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.51,
+        "dc:modified": "2021-07-16T14:54:09Z",
+        "dc:identifier": 516,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/516.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8088,
+          43.4639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 24.9,
+        "dc:modified": "2021-07-16T14:54:08Z",
+        "dc:identifier": 373,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/373.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81054,
+          43.46368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": -6.06,
+        "dc:modified": "2021-07-16T14:54:03Z",
+        "dc:identifier": 2560,
+        "ayto:light": 13571.66,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/2560.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79846,
+          43.46412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 23.29,
+        "dc:modified": "2021-07-16T14:54:03Z",
+        "dc:identifier": 280,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/280.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79848,
+          43.46308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 23.29,
+        "dc:modified": "2021-07-16T14:54:01Z",
+        "dc:identifier": 358,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/358.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80887,
+          43.46307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "50.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2021-07-16T14:54:00Z",
+        "dc:identifier": 357,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/357.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80882,
+          43.46323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:53:58Z",
+        "dc:identifier": 2502,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/2502.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81021,
+          43.46368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 26.19,
+        "dc:modified": "2021-07-16T14:53:58Z",
+        "dc:identifier": 288,
+        "ayto:light": 5392.09,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/288.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79689,
+          43.46358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "50.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2021-07-16T14:53:57Z",
+        "dc:identifier": 306,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/306.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79761,
+          43.46462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 23.29,
+        "dc:modified": "2021-07-16T14:53:57Z",
+        "dc:identifier": 513,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/513.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80987,
+          43.464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.93,
+        "dc:modified": "2021-07-16T14:53:54Z",
+        "dc:identifier": 250,
+        "ayto:light": 659.98,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/250.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80368,
+          43.4622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "50.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2021-07-16T14:53:53Z",
+        "dc:identifier": 486,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/486.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80559,
+          43.46485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 23.67,
+        "dc:modified": "2021-07-16T14:53:52Z",
+        "dc:identifier": 286,
+        "ayto:light": 202.61,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/286.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7983,
+          43.46354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:53:51Z",
+        "dc:identifier": 384,
+        "ayto:light": 8.23,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/384.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79663,
+          43.46436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "50.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2021-07-16T14:53:49Z",
+        "dc:identifier": 404,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/404.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7968,
+          43.4633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 24.58,
+        "dc:modified": "2021-07-16T14:53:47Z",
+        "dc:identifier": 381,
+        "ayto:light": 15030.44,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/381.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79697,
+          43.464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.64,
+        "dc:modified": "2021-07-16T14:53:47Z",
+        "dc:identifier": 461,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/461.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79798,
+          43.46321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:53:45Z",
+        "dc:identifier": 466,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/466.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79777,
+          43.46393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.87,
+        "dc:modified": "2021-07-16T14:53:45Z",
+        "dc:identifier": 397,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/397.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80292,
+          43.4627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.67,
+        "dc:modified": "2021-07-16T14:53:44Z",
+        "dc:identifier": 403,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/403.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79711,
+          43.46327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.67,
+        "dc:modified": "2021-07-16T14:53:44Z",
+        "dc:identifier": 351,
+        "ayto:light": 625.1,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/351.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80938,
+          43.4631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.06,
+        "dc:modified": "2021-07-16T14:53:42Z",
+        "dc:identifier": 299,
+        "ayto:light": 2908.92,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/299.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79872,
+          43.46438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "50.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2021-07-16T14:53:41Z",
+        "dc:identifier": 483,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/483.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80713,
+          43.46471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.64,
+        "dc:modified": "2021-07-16T14:53:38Z",
+        "dc:identifier": 400,
+        "ayto:light": 1547.65,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/400.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79783,
+          43.46272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 19.67,
+        "dc:modified": "2021-07-16T14:53:37Z",
+        "dc:identifier": 453,
+        "ayto:light": 5044.06,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/453.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80402,
+          43.46212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.58,
+        "dc:modified": "2021-07-16T14:53:35Z",
+        "dc:identifier": 356,
+        "ayto:light": 270.27,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/356.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80901,
+          43.46293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.25,
+        "dc:modified": "2021-07-16T14:53:33Z",
+        "dc:identifier": 296,
+        "ayto:light": 2961.1,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/296.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79992,
+          43.46425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 24.9,
+        "dc:modified": "2021-07-16T14:53:31Z",
+        "dc:identifier": 519,
+        "ayto:light": 14.79,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/519.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80885,
+          43.46475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:53:30Z",
+        "dc:identifier": 488,
+        "ayto:light": 11924.39,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/488.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80619,
+          43.46467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.87,
+        "dc:modified": "2021-07-16T14:53:20Z",
+        "dc:identifier": 293,
+        "ayto:light": 3014.58,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/293.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79723,
+          43.46468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:53:18Z",
+        "dc:identifier": 254,
+        "ayto:light": 1014.1,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/254.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8028,
+          43.46197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.09,
+        "dc:modified": "2021-07-16T14:53:14Z",
+        "dc:identifier": 303,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/303.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79846,
+          43.46442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "50.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2021-07-16T14:53:06Z",
+        "dc:identifier": 498,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/498.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80725,
+          43.46434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.06,
+        "dc:modified": "2021-07-16T14:53:01Z",
+        "dc:identifier": 506,
+        "ayto:light": 72.07,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/506.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80545,
+          43.46385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.64,
+        "dc:modified": "2021-07-16T14:53:00Z",
+        "dc:identifier": 339,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/339.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80668,
+          43.46334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.96,
+        "dc:modified": "2021-07-16T14:52:59Z",
+        "dc:identifier": 291,
+        "ayto:light": 4829.32,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/291.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80059,
+          43.46423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:52:58Z",
+        "dc:identifier": 361,
+        "ayto:light": 415.04,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/361.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8088,
+          43.46334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:52:55Z",
+        "dc:identifier": 354,
+        "ayto:light": 4345.43,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/354.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80917,
+          43.46249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.35,
+        "dc:modified": "2021-07-16T14:52:54Z",
+        "dc:identifier": 2562,
+        "ayto:light": 28.47,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/2562.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79942,
+          43.46337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.8,
+        "dc:modified": "2021-07-16T14:52:53Z",
+        "dc:identifier": 363,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/363.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8105,
+          43.46327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.67,
+        "dc:modified": "2021-07-16T14:52:46Z",
+        "dc:identifier": 497,
+        "ayto:light": 11557.59,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/497.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80661,
+          43.46439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.16,
+        "dc:modified": "2021-07-16T14:52:45Z",
+        "dc:identifier": 302,
+        "ayto:light": 1135.73,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/302.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79836,
+          43.46386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:52:44Z",
+        "dc:identifier": 514,
+        "ayto:light": 0.37,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/514.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80939,
+          43.464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.8,
+        "dc:modified": "2021-07-16T14:52:32Z",
+        "dc:identifier": 399,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/399.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79807,
+          43.4627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 23.67,
+        "dc:modified": "2021-07-16T14:52:26Z",
+        "dc:identifier": 292,
+        "ayto:light": 362.78,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/292.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80034,
+          43.46426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.64,
+        "dc:modified": "2021-07-16T14:52:21Z",
+        "dc:identifier": 491,
+        "ayto:light": 6561887.4,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/491.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.805,
+          43.46453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 19.93,
+        "dc:modified": "2021-07-16T14:52:14Z",
+        "dc:identifier": 365,
+        "ayto:light": 2808.28,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/365.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8105,
+          43.46324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.32,
+        "dc:modified": "2021-07-16T14:52:06Z",
+        "dc:identifier": 249,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/249.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80347,
+          43.46232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:52:03Z",
+        "dc:identifier": 2561,
+        "ayto:light": 496.53,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/2561.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79893,
+          43.4634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.22,
+        "dc:modified": "2021-07-16T14:52:01Z",
+        "dc:identifier": 370,
+        "ayto:light": 1662.63,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/370.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81114,
+          43.46367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.93,
+        "dc:modified": "2021-07-16T14:51:52Z",
+        "dc:identifier": 540,
+        "ayto:light": 78.54,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/540.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80084,
+          43.46241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "22.0",
+        "dc:modified": "2021-07-16T14:51:52Z",
+        "dc:identifier": 455,
+        "ayto:light": 659.98,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/455.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80013,
+          43.46233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.51,
+        "dc:modified": "2021-07-16T14:51:52Z",
+        "dc:identifier": 252,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/252.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79986,
+          43.46303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:51:52Z",
+        "dc:identifier": 539,
+        "ayto:light": 3849.61,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/539.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80036,
+          43.46263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.61,
+        "dc:modified": "2021-07-16T14:51:52Z",
+        "dc:identifier": 533,
+        "ayto:light": 234.64,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/533.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79979,
+          43.46323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.45,
+        "dc:modified": "2021-07-16T14:51:52Z",
+        "dc:identifier": 456,
+        "ayto:light": 199.19,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/456.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80069,
+          43.46238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": 60.7,
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2021-07-16T14:51:52Z",
+        "dc:identifier": 527,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/527.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80129,
+          43.46296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "50.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2021-07-16T14:51:52Z",
+        "dc:identifier": 275,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/275.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79933,
+          43.46258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:51:34Z",
+        "dc:identifier": 309,
+        "ayto:light": 5774.81,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/309.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80455,
+          43.46256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.83,
+        "dc:modified": "2021-07-16T14:51:34Z",
+        "dc:identifier": 276,
+        "ayto:light": 592.52,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/276.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79737,
+          43.46326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.67,
+        "dc:modified": "2021-07-16T14:51:32Z",
+        "dc:identifier": 479,
+        "ayto:light": 1107.12,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/479.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80428,
+          43.46299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.12,
+        "dc:modified": "2021-07-16T14:51:32Z",
+        "dc:identifier": 326,
+        "ayto:light": 324.22,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/326.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80333,
+          43.4641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.41,
+        "dc:modified": "2021-07-16T14:51:32Z",
+        "dc:identifier": 324,
+        "ayto:light": 0.47,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/324.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80474,
+          43.46387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "67.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2021-07-16T14:51:25Z",
+        "dc:identifier": 258,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/258.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80161,
+          43.46262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:51:23Z",
+        "dc:identifier": 342,
+        "ayto:light": 0.95,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/342.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80627,
+          43.46343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 24.7,
+        "dc:modified": "2021-07-16T14:51:18Z",
+        "dc:identifier": 256,
+        "ayto:light": 40519.39,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/256.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80235,
+          43.46221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:51:18Z",
+        "dc:identifier": 371,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/371.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8107,
+          43.46354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:51:09Z",
+        "dc:identifier": 378,
+        "ayto:light": 178.47,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/378.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79705,
+          43.46516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.77,
+        "dc:modified": "2021-07-16T14:51:08Z",
+        "dc:identifier": 465,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/465.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79853,
+          43.46367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:51:07Z",
+        "dc:identifier": 518,
+        "ayto:light": 0.12,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/518.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80884,
+          43.46442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:50:58Z",
+        "dc:identifier": 376,
+        "ayto:light": 1052.66,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/376.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81107,
+          43.46369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:50:54Z",
+        "dc:identifier": 183,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/183.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79634,
+          43.46315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.41,
+        "dc:modified": "2021-07-16T14:50:53Z",
+        "dc:identifier": 338,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/338.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80696,
+          43.46365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 23.87,
+        "dc:modified": "2021-07-16T14:50:52Z",
+        "dc:identifier": 79,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/79.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80101,
+          43.47106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.09,
+        "dc:modified": "2021-07-16T14:50:51Z",
+        "dc:identifier": 508,
+        "ayto:light": 57.03,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/508.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80545,
+          43.46424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 23.35,
+        "dc:modified": "2021-07-16T14:50:48Z",
+        "dc:identifier": 266,
+        "ayto:light": 330.29,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/266.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80069,
+          43.46291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.38,
+        "dc:modified": "2021-07-16T14:50:39Z",
+        "dc:identifier": 501,
+        "ayto:light": 70.4,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/501.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80615,
+          43.46406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.45,
+        "dc:modified": "2021-07-16T14:50:39Z",
+        "dc:identifier": 329,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/329.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80793,
+          43.46439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.58,
+        "dc:modified": "2021-07-16T14:50:38Z",
+        "dc:identifier": 463,
+        "ayto:light": 0.22,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/463.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79963,
+          43.46356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 24.19,
+        "dc:modified": "2021-07-16T14:50:35Z",
+        "dc:identifier": 374,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/374.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80995,
+          43.46369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 23.74,
+        "dc:modified": "2021-07-16T14:50:30Z",
+        "dc:identifier": 295,
+        "ayto:light": 2450.15,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/295.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79994,
+          43.46428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.83,
+        "dc:modified": "2021-07-16T14:50:22Z",
+        "dc:identifier": 385,
+        "ayto:light": 31343.81,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/385.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79669,
+          43.46463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 23.29,
+        "dc:modified": "2021-07-16T14:50:14Z",
+        "dc:identifier": 277,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/277.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79764,
+          43.46324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:50:13Z",
+        "dc:identifier": 526,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/526.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80129,
+          43.46254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 19.35,
+        "dc:modified": "2021-07-16T14:50:13Z",
+        "dc:identifier": 489,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/489.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80643,
+          43.46446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.35,
+        "dc:modified": "2021-07-16T14:50:11Z",
+        "dc:identifier": 503,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/503.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80643,
+          43.46335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "50.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2021-07-16T14:50:10Z",
+        "dc:identifier": 91,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/91.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80134,
+          43.47198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.48,
+        "dc:modified": "2021-07-16T14:50:10Z",
+        "dc:identifier": 282,
+        "ayto:light": 220.79,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/282.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79979,
+          43.46369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 23.74,
+        "dc:modified": "2021-07-16T14:50:07Z",
+        "dc:identifier": 538,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/538.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80018,
+          43.46282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.32,
+        "dc:modified": "2021-07-16T14:50:04Z",
+        "dc:identifier": 470,
+        "ayto:light": 1026.75,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/470.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79971,
+          43.46429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 24.32,
+        "dc:modified": "2021-07-16T14:50:03Z",
+        "dc:identifier": 525,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/525.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80142,
+          43.46349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.32,
+        "dc:modified": "2021-07-16T14:50:01Z",
+        "dc:identifier": 402,
+        "ayto:light": 1871.68,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/402.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79724,
+          43.46277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 23.54,
+        "dc:modified": "2021-07-16T14:50:01Z",
+        "dc:identifier": 515,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/515.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80893,
+          43.46399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:49:59Z",
+        "dc:identifier": 372,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/372.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81079,
+          43.46366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 23.93,
+        "dc:modified": "2021-07-16T14:49:54Z",
+        "dc:identifier": 314,
+        "ayto:light": 20231.86,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/314.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80364,
+          43.46387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:49:47Z",
+        "dc:identifier": 304,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/304.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79789,
+          43.46448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.67,
+        "dc:modified": "2021-07-16T14:49:46Z",
+        "dc:identifier": 259,
+        "ayto:light": 4436.62,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/259.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80204,
+          43.46301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:49:44Z",
+        "dc:identifier": 368,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/368.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81118,
+          43.46352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.12,
+        "dc:modified": "2021-07-16T14:49:43Z",
+        "dc:identifier": 472,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/472.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80296,
+          43.4632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.32,
+        "dc:modified": "2021-07-16T14:49:37Z",
+        "dc:identifier": 524,
+        "ayto:light": 387.84,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/524.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80264,
+          43.46268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.32,
+        "dc:modified": "2021-07-16T14:49:34Z",
+        "dc:identifier": 528,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/528.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80123,
+          43.4631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 7.87,
+        "dc:modified": "2021-07-16T14:49:26Z",
+        "dc:identifier": 517,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/517.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80881,
+          43.46415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.7,
+        "dc:modified": "2021-07-16T14:49:24Z",
+        "dc:identifier": 496,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/496.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80631,
+          43.4644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.51,
+        "dc:modified": "2021-07-16T14:49:18Z",
+        "dc:identifier": 507,
+        "ayto:light": 798.75,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/507.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80545,
+          43.46409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "20.0",
+        "dc:modified": "2021-07-16T14:49:18Z",
+        "dc:identifier": 340,
+        "ayto:light": 0.04,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/340.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80633,
+          43.46364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.19,
+        "dc:modified": "2021-07-16T14:49:16Z",
+        "dc:identifier": 419,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/419.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79716,
+          43.46469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 25.61,
+        "dc:modified": "2021-07-16T14:49:10Z",
+        "dc:identifier": 382,
+        "ayto:light": 11206.76,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/382.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79682,
+          43.46401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.25,
+        "dc:modified": "2021-07-16T14:49:09Z",
+        "dc:identifier": 260,
+        "ayto:light": 522.6,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/260.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8019,
+          43.46361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 29.74,
+        "dc:modified": "2021-07-16T14:49:03Z",
+        "dc:identifier": 478,
+        "ayto:light": 3630.89,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/478.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80485,
+          43.46276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.9,
+        "dc:modified": "2021-07-16T14:48:57Z",
+        "dc:identifier": 311,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/311.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80446,
+          43.46321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 23.29,
+        "dc:modified": "2021-07-16T14:47:56Z",
+        "dc:identifier": 529,
+        "ayto:light": 93.36,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/529.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80097,
+          43.46313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:47:50Z",
+        "dc:identifier": 313,
+        "ayto:light": 0.15,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/313.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80328,
+          43.46317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 25.22,
+        "dc:modified": "2021-07-16T14:47:21Z",
+        "dc:identifier": 271,
+        "ayto:light": 23857.51,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/271.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80022,
+          43.46251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T14:47:20Z",
+        "dc:identifier": 325,
+        "ayto:light": 403.11,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/325.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80416,
+          43.46379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.45,
+        "dc:modified": "2021-07-16T14:47:16Z",
+        "dc:identifier": 262,
+        "ayto:light": 2084.7,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/262.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80232,
+          43.46295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.12,
+        "dc:modified": "2021-07-16T14:47:12Z",
+        "dc:identifier": 274,
+        "ayto:light": 1816.24,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/274.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7996,
+          43.46248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.93,
+        "dc:modified": "2021-07-16T14:47:11Z",
+        "dc:identifier": 536,
+        "ayto:light": 953.83,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/536.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79968,
+          43.46301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "61.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2021-07-16T14:47:06Z",
+        "dc:identifier": 272,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/272.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79957,
+          43.46328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.8,
+        "dc:modified": "2021-07-16T14:47:02Z",
+        "dc:identifier": 273,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/273.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7996,
+          43.46275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.03,
+        "dc:modified": "2021-07-16T14:42:32Z",
+        "dc:identifier": 308,
+        "ayto:light": 232.6,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/308.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80518,
+          43.46271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 19.8,
+        "dc:modified": "2021-07-16T14:11:56Z",
+        "dc:identifier": 631,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/631.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80872,
+          43.45938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 26.19,
+        "dc:modified": "2021-07-16T14:11:56Z",
+        "dc:identifier": 646,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/646.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80895,
+          43.4592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 24.12,
+        "dc:modified": "2021-07-16T14:07:01Z",
+        "dc:identifier": 82,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/82.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80054,
+          43.47126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.48,
+        "dc:modified": "2021-07-16T13:49:59Z",
+        "dc:identifier": 640,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/640.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80922,
+          43.4584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.77,
+        "dc:modified": "2021-07-16T13:49:29Z",
+        "dc:identifier": 734,
+        "ayto:light": 49.17,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/734.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80995,
+          43.45802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.87,
+        "dc:modified": "2021-07-16T13:35:22Z",
+        "dc:identifier": 650,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/650.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80971,
+          43.45839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 23.29,
+        "dc:modified": "2021-07-16T13:34:37Z",
+        "dc:identifier": 652,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/652.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80872,
+          43.45854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.48,
+        "dc:modified": "2021-07-16T13:00:39Z",
+        "dc:identifier": 634,
+        "ayto:light": 91.18,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/634.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80929,
+          43.4591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T12:50:42Z",
+        "dc:identifier": 647,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/647.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80995,
+          43.45761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T03:28:30Z",
+        "dc:identifier": 641,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/641.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81141,
+          43.45788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 15.16,
+        "dc:modified": "2021-07-16T03:25:57Z",
+        "dc:identifier": 636,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/636.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81165,
+          43.45781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T03:21:07Z",
+        "dc:identifier": 625,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/625.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80992,
+          43.4582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "50.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2021-07-16T03:07:45Z",
+        "dc:identifier": 732,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/732.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81201,
+          43.45647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 15.67,
+        "dc:modified": "2021-07-16T03:04:39Z",
+        "dc:identifier": 635,
+        "ayto:light": 4.91,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/635.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81383,
+          43.45527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 16.38,
+        "dc:modified": "2021-07-16T02:45:43Z",
+        "dc:identifier": 649,
+        "ayto:light": 2.69,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/649.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81245,
+          43.45731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2021-07-16T02:36:15Z",
+        "dc:identifier": 537,
+        "ayto:light": 0.08,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/537.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80031,
+          43.4628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 15.35,
+        "dc:modified": "2021-07-16T02:04:41Z",
+        "dc:identifier": 642,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/642.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81211,
+          43.45711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 18.38,
+        "dc:modified": "2021-07-15T02:23:25Z",
+        "dc:identifier": 284,
+        "ayto:light": 0.01,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/284.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79713,
+          43.46357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 17.8,
+        "dc:modified": "2021-07-07T00:15:58Z",
+        "dc:identifier": 367,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/367.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81131,
+          43.46336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "16.0",
+        "dc:modified": "2021-07-04T23:59:55Z",
+        "dc:identifier": 70,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/70.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80232,
+          43.47137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.19,
+        "dc:modified": "2021-06-30T20:47:41Z",
+        "dc:identifier": 10007,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/10007.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80033,
+          43.47204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.22,
+        "dc:modified": "2021-06-30T20:47:30Z",
+        "dc:identifier": 10006,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/10006.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80026,
+          43.47201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.7,
+        "dc:modified": "2021-06-30T20:47:23Z",
+        "dc:identifier": 10015,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/10015.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80013,
+          43.47213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.96,
+        "dc:modified": "2021-06-30T20:46:45Z",
+        "dc:identifier": 10011,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/10011.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80008,
+          43.47194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 19.93,
+        "dc:modified": "2021-06-30T20:46:11Z",
+        "dc:identifier": 10005,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/10005.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80035,
+          43.47197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.87,
+        "dc:modified": "2021-06-30T20:46:04Z",
+        "dc:identifier": 10001,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/10001.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80023,
+          43.47182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.22,
+        "dc:modified": "2021-06-30T20:45:33Z",
+        "dc:identifier": 10013,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/10013.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8001,
+          43.47207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.48,
+        "dc:modified": "2021-06-30T20:45:14Z",
+        "dc:identifier": 10009,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/10009.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80015,
+          43.47204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.77,
+        "dc:modified": "2021-06-30T20:44:31Z",
+        "dc:identifier": 10000,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/10000.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80014,
+          43.47171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 21.67,
+        "dc:modified": "2021-06-30T20:44:24Z",
+        "dc:identifier": 10003,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/10003.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80033,
+          43.47191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.38,
+        "dc:modified": "2021-06-30T20:44:15Z",
+        "dc:identifier": 10008,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/10008.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80021,
+          43.47207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.9,
+        "dc:modified": "2021-06-30T20:44:04Z",
+        "dc:identifier": 10002,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/10002.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80033,
+          43.47181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.77,
+        "dc:modified": "2021-06-30T20:43:54Z",
+        "dc:identifier": 10004,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/10004.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80042,
+          43.47188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "22.0",
+        "dc:modified": "2021-06-30T20:43:44Z",
+        "dc:identifier": 10010,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/10010.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80017,
+          43.47194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.06,
+        "dc:modified": "2021-06-30T20:43:27Z",
+        "dc:identifier": 10012,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/10012.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80008,
+          43.472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 30.32,
+        "dc:modified": "2021-03-22T13:31:26Z",
+        "dc:identifier": 85,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/85.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80653,
+          43.46147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 14.25,
+        "dc:modified": "2021-03-22T13:30:08Z",
+        "dc:identifier": 55,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/55.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80693,
+          43.46104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 12.38,
+        "dc:modified": "2021-03-22T13:28:39Z",
+        "dc:identifier": 72,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/72.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80649,
+          43.46104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 15.29,
+        "dc:modified": "2021-03-22T13:28:21Z",
+        "dc:identifier": 160,
+        "ayto:light": 2.34,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/160.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80509,
+          43.46176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 13.22,
+        "dc:modified": "2021-03-22T13:27:51Z",
+        "dc:identifier": 73,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/73.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80681,
+          43.46145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 17.03,
+        "dc:modified": "2021-03-22T13:27:39Z",
+        "dc:identifier": 68,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/68.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80591,
+          43.46167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 13.93,
+        "dc:modified": "2021-03-22T04:56:20Z",
+        "dc:identifier": 170,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/170.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8,
+          43.46225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 12.7,
+        "dc:modified": "2021-01-17T12:04:22Z",
+        "dc:identifier": 51,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/51.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80174,
+          43.47092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 6.77,
+        "dc:modified": "2021-01-14T05:53:48Z",
+        "dc:identifier": 167,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/167.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80189,
+          43.46207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 31.22,
+        "dc:modified": "2021-01-04T09:09:00Z",
+        "dc:identifier": 2565,
+        "ayto:light": 0.54,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/2565.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79814,
+          43.46347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2020-12-05T04:40:39Z",
+        "dc:identifier": 3248,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/3248.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81165,
+          43.46727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 7.22,
+        "dc:modified": "2020-12-05T04:38:57Z",
+        "dc:identifier": 312,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/312.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80439,
+          43.46298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 7.74,
+        "dc:modified": "2020-12-05T04:36:58Z",
+        "dc:identifier": 310,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/310.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80391,
+          43.46305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 6.06,
+        "dc:modified": "2020-12-03T22:48:01Z",
+        "dc:identifier": 10020,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/10020.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.83115,
+          43.46016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 16.9,
+        "dc:modified": "2020-11-29T13:11:57Z",
+        "dc:identifier": 545,
+        "ayto:light": 11.5,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/545.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79925,
+          43.46307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.58,
+        "dc:modified": "2020-11-29T13:11:44Z",
+        "dc:identifier": 171,
+        "ayto:light": 4530.49,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/171.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79956,
+          43.46229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 18.9,
+        "dc:modified": "2020-11-29T13:11:27Z",
+        "dc:identifier": 394,
+        "ayto:light": 645.74,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/394.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79834,
+          43.46252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "16.0",
+        "dc:modified": "2020-11-29T13:10:32Z",
+        "dc:identifier": 459,
+        "ayto:light": 517.26,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/459.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7988,
+          43.46263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.83,
+        "dc:modified": "2020-11-29T13:10:26Z",
+        "dc:identifier": 178,
+        "ayto:light": 1.65,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/178.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7969,
+          43.46269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 16.51,
+        "dc:modified": "2020-11-29T13:10:14Z",
+        "dc:identifier": 2566,
+        "ayto:light": 2908.92,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/2566.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80351,
+          43.46286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": 69.7,
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2020-11-29T13:10:09Z",
+        "dc:identifier": 281,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/281.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79918,
+          43.46232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": 53.6,
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2020-11-29T13:10:09Z",
+        "dc:identifier": 398,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/398.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79819,
+          43.46262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2020-11-29T13:10:09Z",
+        "dc:identifier": 177,
+        "ayto:light": 4.28,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/177.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7972,
+          43.46252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 18.12,
+        "dc:modified": "2020-11-29T13:10:09Z",
+        "dc:identifier": 547,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/547.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79825,
+          43.46292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 18.7,
+        "dc:modified": "2020-11-29T13:10:09Z",
+        "dc:identifier": 42,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/42.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79944,
+          43.46181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 19.22,
+        "dc:modified": "2020-11-29T13:10:09Z",
+        "dc:identifier": 13,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/13.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79772,
+          43.46231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2020-11-29T13:10:09Z",
+        "dc:identifier": 175,
+        "ayto:light": 4627.15,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/175.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79794,
+          43.46243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 16.9,
+        "dc:modified": "2020-11-29T13:10:09Z",
+        "dc:identifier": 279,
+        "ayto:light": 1.82,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/279.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79842,
+          43.46302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.32,
+        "dc:modified": "2020-11-29T13:10:09Z",
+        "dc:identifier": 546,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/546.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79814,
+          43.46319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 16.19,
+        "dc:modified": "2020-11-29T13:10:09Z",
+        "dc:identifier": 460,
+        "ayto:light": 481.66,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/460.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79832,
+          43.46327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2020-11-28T02:08:55Z",
+        "dc:identifier": 176,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/176.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79751,
+          43.46248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": 54.4,
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2020-09-09T05:30:22Z",
+        "dc:identifier": 737,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/737.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81289,
+          43.45487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "50.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2020-09-09T05:29:42Z",
+        "dc:identifier": 736,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/736.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81251,
+          43.45466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 25.87,
+        "dc:modified": "2020-09-09T05:29:16Z",
+        "dc:identifier": 594,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/594.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81282,
+          43.45431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2020-09-09T05:28:47Z",
+        "dc:identifier": 615,
+        "ayto:light": 919.88,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/615.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80917,
+          43.45778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 17.16,
+        "dc:modified": "2020-09-09T05:28:13Z",
+        "dc:identifier": 599,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/599.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81211,
+          43.45571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 28.45,
+        "dc:modified": "2020-09-09T05:27:27Z",
+        "dc:identifier": 606,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/606.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81316,
+          43.45397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 16.77,
+        "dc:modified": "2020-09-09T05:27:26Z",
+        "dc:identifier": 575,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/575.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81214,
+          43.4559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 17.8,
+        "dc:modified": "2020-09-09T05:26:53Z",
+        "dc:identifier": 604,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/604.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81019,
+          43.45714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2020-09-09T05:26:44Z",
+        "dc:identifier": 609,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/609.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81121,
+          43.45606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.96,
+        "dc:modified": "2020-09-09T05:25:53Z",
+        "dc:identifier": 612,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/612.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80866,
+          43.4584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 20.06,
+        "dc:modified": "2020-09-09T05:25:46Z",
+        "dc:identifier": 586,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/586.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81203,
+          43.45517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "59.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2020-03-05T15:26:45Z",
+        "dc:identifier": 253,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/253.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8031,
+          43.46227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "12.0",
+        "dc:modified": "2019-12-12T17:02:58Z",
+        "dc:identifier": 542,
+        "ayto:light": 0.06,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/542.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79948,
+          43.4629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 12.45,
+        "dc:modified": "2019-12-12T17:02:51Z",
+        "dc:identifier": 8,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/8.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79852,
+          43.46224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 11.67,
+        "dc:modified": "2019-12-12T17:01:24Z",
+        "dc:identifier": 543,
+        "ayto:light": 13.42,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/543.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79951,
+          43.46267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "14.0",
+        "dc:modified": "2019-12-12T17:00:59Z",
+        "dc:identifier": 393,
+        "ayto:light": 0.07,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/393.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79942,
+          43.46238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 13.54,
+        "dc:modified": "2019-12-12T17:00:53Z",
+        "dc:identifier": 12,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/12.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79796,
+          43.46198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": -7.67,
+        "dc:modified": "2019-12-12T09:54:35Z",
+        "dc:identifier": 6,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/6.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79979,
+          43.46212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2019-12-02T03:07:25Z",
+        "dc:identifier": 3224,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/3224.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79906,
+          43.47556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "258.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2019-11-11T12:44:04Z",
+        "dc:identifier": 735,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/735.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81187,
+          43.45536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 18.38,
+        "dc:modified": "2019-11-01T16:23:44Z",
+        "dc:identifier": 583,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/583.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81157,
+          43.45566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": -8.45,
+        "dc:modified": "2019-10-27T15:17:21Z",
+        "dc:identifier": 11,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/11.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79749,
+          43.46206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.96,
+        "dc:modified": "2019-10-27T10:32:19Z",
+        "dc:identifier": 593,
+        "ayto:light": 544.7,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/593.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81044,
+          43.45686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "14.0",
+        "dc:modified": "2019-10-22T07:49:09Z",
+        "dc:identifier": 248,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/248.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80368,
+          43.46259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 10.25,
+        "dc:modified": "2019-10-20T10:50:38Z",
+        "dc:identifier": 3,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/3.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80176,
+          43.46192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 11.22,
+        "dc:modified": "2019-10-20T10:49:03Z",
+        "dc:identifier": 165,
+        "ayto:light": 17.15,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/165.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80382,
+          43.46187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 16.25,
+        "dc:modified": "2019-10-18T04:18:07Z",
+        "dc:identifier": 5,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/5.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80058,
+          43.46203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 15.87,
+        "dc:modified": "2019-10-18T03:25:17Z",
+        "dc:identifier": 2,
+        "ayto:light": 0.64,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/2.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80202,
+          43.46184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "54.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2019-04-10T16:05:00Z",
+        "dc:identifier": 246,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/246.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80549,
+          43.46242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 13.22,
+        "dc:modified": "2019-04-10T16:04:32Z",
+        "dc:identifier": 449,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/449.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80741,
+          43.46208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 13.29,
+        "dc:modified": "2019-04-10T16:04:19Z",
+        "dc:identifier": 450,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/450.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80757,
+          43.4618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "50.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2019-04-10T16:04:13Z",
+        "dc:identifier": 237,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/237.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80704,
+          43.46217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 11.67,
+        "dc:modified": "2019-04-10T16:02:55Z",
+        "dc:identifier": 232,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/232.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80768,
+          43.46219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 13.67,
+        "dc:modified": "2019-04-10T16:02:26Z",
+        "dc:identifier": 245,
+        "ayto:light": 114.78,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/245.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80485,
+          43.46204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "14.0",
+        "dc:modified": "2019-04-10T16:02:11Z",
+        "dc:identifier": 234,
+        "ayto:light": 7.91,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/234.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80716,
+          43.46284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 13.41,
+        "dc:modified": "2019-04-10T16:02:08Z",
+        "dc:identifier": 241,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/241.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80544,
+          43.46264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 14.06,
+        "dc:modified": "2019-04-10T16:01:15Z",
+        "dc:identifier": 242,
+        "ayto:light": 3.27,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/242.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80542,
+          43.46246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 13.8,
+        "dc:modified": "2019-04-10T16:01:11Z",
+        "dc:identifier": 239,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/239.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80737,
+          43.46211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 11.74,
+        "dc:modified": "2019-04-10T16:00:40Z",
+        "dc:identifier": 233,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/233.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80753,
+          43.4625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 14.25,
+        "dc:modified": "2019-04-10T16:00:21Z",
+        "dc:identifier": 235,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/235.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80735,
+          43.46282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": 65.5,
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2019-03-01T04:09:45Z",
+        "dc:identifier": 297,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/297.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79968,
+          43.46386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 22.58,
+        "dc:modified": "2019-02-27T10:27:10Z",
+        "dc:identifier": 305,
+        "ayto:light": 49.94,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/305.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79743,
+          43.46465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2019-02-19T01:52:31Z",
+        "dc:identifier": 744,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/744.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81364,
+          43.45706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 8.12,
+        "dc:modified": "2019-01-30T03:22:49Z",
+        "dc:identifier": 364,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/364.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81102,
+          43.46323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 11.22,
+        "dc:modified": "2019-01-09T11:36:36Z",
+        "dc:identifier": 341,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/341.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80626,
+          43.46359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 10.96,
+        "dc:modified": "2019-01-09T11:35:40Z",
+        "dc:identifier": 505,
+        "ayto:light": 127.42,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/505.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80555,
+          43.46359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 10.51,
+        "dc:modified": "2019-01-09T11:33:59Z",
+        "dc:identifier": 502,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/502.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80613,
+          43.46385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 10.25,
+        "dc:modified": "2019-01-09T11:33:44Z",
+        "dc:identifier": 484,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/484.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8067,
+          43.46474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 13.61,
+        "dc:modified": "2018-12-24T17:16:41Z",
+        "dc:identifier": 530,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/530.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80046,
+          43.46316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "100.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2018-12-02T12:38:11Z",
+        "dc:identifier": 407,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/407.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79703,
+          43.46294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 13.74,
+        "dc:modified": "2018-12-01T21:14:01Z",
+        "dc:identifier": 401,
+        "ayto:light": 0.1,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/401.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79753,
+          43.46275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2018-11-30T11:14:01Z",
+        "dc:identifier": 613,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/613.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81069,
+          43.4566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 10.32,
+        "dc:modified": "2018-11-20T10:41:45Z",
+        "dc:identifier": 482,
+        "ayto:light": 222.71,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/482.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80774,
+          43.4647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2018-11-07T10:18:39Z",
+        "dc:identifier": 3240,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/3240.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82524,
+          43.45276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2018-09-25T11:59:46Z",
+        "dc:identifier": 495,
+        "ayto:light": 29877.53,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/495.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80607,
+          43.46436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 17.03,
+        "dc:modified": "2018-07-16T06:22:04Z",
+        "dc:identifier": 2526,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/2526.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82652,
+          43.4525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 17.22,
+        "dc:modified": "2018-07-16T06:21:51Z",
+        "dc:identifier": 2536,
+        "ayto:light": 197.5,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/2536.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82798,
+          43.45427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 16.45,
+        "dc:modified": "2018-07-16T06:21:33Z",
+        "dc:identifier": 587,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/587.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82559,
+          43.45196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 17.03,
+        "dc:modified": "2018-07-16T06:21:00Z",
+        "dc:identifier": 579,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/579.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82488,
+          43.4529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 17.41,
+        "dc:modified": "2018-07-16T06:20:55Z",
+        "dc:identifier": 2540,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/2540.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82851,
+          43.45346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 17.16,
+        "dc:modified": "2018-07-16T06:20:42Z",
+        "dc:identifier": 2532,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/2532.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82808,
+          43.45255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 16.38,
+        "dc:modified": "2018-07-16T06:20:39Z",
+        "dc:identifier": 2541,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/2541.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82802,
+          43.45321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 17.29,
+        "dc:modified": "2018-07-16T06:19:52Z",
+        "dc:identifier": 616,
+        "ayto:light": 137.06,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/616.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82661,
+          43.45269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 14.96,
+        "dc:modified": "2018-07-16T06:19:28Z",
+        "dc:identifier": 2521,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/2521.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82443,
+          43.45355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2018-07-16T06:19:01Z",
+        "dc:identifier": 582,
+        "ayto:light": 64.1,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/582.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82481,
+          43.45223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 16.12,
+        "dc:modified": "2018-07-16T06:17:50Z",
+        "dc:identifier": 2530,
+        "ayto:light": "54.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/2530.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82829,
+          43.45418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 15.22,
+        "dc:modified": "2018-07-16T06:17:33Z",
+        "dc:identifier": 597,
+        "ayto:light": 107.68,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/597.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82758,
+          43.4524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2018-07-15T22:26:10Z",
+        "dc:identifier": 512,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/512.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80979,
+          43.46417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 25.29,
+        "dc:modified": "2018-07-06T19:11:12Z",
+        "dc:identifier": 267,
+        "ayto:light": 0.01,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/267.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80071,
+          43.46276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 18.12,
+        "dc:modified": "2018-06-29T01:49:31Z",
+        "dc:identifier": 391,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/391.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80286,
+          43.46222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 17.29,
+        "dc:modified": "2018-06-08T15:42:54Z",
+        "dc:identifier": 548,
+        "ayto:light": 15.59,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/548.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79845,
+          43.46266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 17.67,
+        "dc:modified": "2018-06-07T17:57:38Z",
+        "dc:identifier": 174,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/174.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79832,
+          43.4624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2018-05-21T07:45:30Z",
+        "dc:identifier": 300,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/300.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79859,
+          43.46393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 16.9,
+        "dc:modified": "2018-04-06T05:50:50Z",
+        "dc:identifier": 169,
+        "ayto:light": 877.02,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/169.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80034,
+          43.46224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 11.09,
+        "dc:modified": "2018-03-24T11:06:44Z",
+        "dc:identifier": 541,
+        "ayto:light": 846.56,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/541.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80006,
+          43.46254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "6.0",
+        "dc:modified": "2018-03-22T23:48:08Z",
+        "dc:identifier": 388,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/388.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80157,
+          43.46207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "65.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2018-02-28T00:29:31Z",
+        "dc:identifier": 366,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/366.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81126,
+          43.46324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 4.32,
+        "dc:modified": "2018-02-08T08:37:38Z",
+        "dc:identifier": 430,
+        "ayto:light": 10.48,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/430.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81401,
+          43.4625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 5.54,
+        "dc:modified": "2018-02-08T08:37:36Z",
+        "dc:identifier": 433,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/433.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81297,
+          43.46264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 3.54,
+        "dc:modified": "2018-02-08T08:37:31Z",
+        "dc:identifier": 222,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/222.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81334,
+          43.46217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 4.45,
+        "dc:modified": "2018-02-08T08:37:15Z",
+        "dc:identifier": 211,
+        "ayto:light": 57.03,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/211.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81407,
+          43.46321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 4.83,
+        "dc:modified": "2018-02-08T08:37:06Z",
+        "dc:identifier": 227,
+        "ayto:light": 1.22,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/227.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81259,
+          43.46337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2018-02-08T08:36:47Z",
+        "dc:identifier": 268,
+        "ayto:light": 6561887.4,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/268.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80132,
+          43.46322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 5.22,
+        "dc:modified": "2018-02-08T08:36:45Z",
+        "dc:identifier": 208,
+        "ayto:light": 192.53,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/208.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8131,
+          43.46338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 3.8,
+        "dc:modified": "2018-02-08T08:36:38Z",
+        "dc:identifier": 218,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/218.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81374,
+          43.46255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "67.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2018-02-08T08:36:36Z",
+        "dc:identifier": 377,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/377.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80979,
+          43.4637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 5.8,
+        "dc:modified": "2018-02-08T08:35:41Z",
+        "dc:identifier": 228,
+        "ayto:light": 224.65,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/228.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81298,
+          43.46303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 4.7,
+        "dc:modified": "2018-02-08T08:35:40Z",
+        "dc:identifier": 432,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/432.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81442,
+          43.46305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": 59.2,
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2018-02-08T08:35:22Z",
+        "dc:identifier": 231,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/231.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81143,
+          43.46297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 5.09,
+        "dc:modified": "2018-02-08T08:35:18Z",
+        "dc:identifier": 223,
+        "ayto:light": 36.18,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/223.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81364,
+          43.46222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 2.96,
+        "dc:modified": "2018-02-08T08:35:18Z",
+        "dc:identifier": 217,
+        "ayto:light": 48.78,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/217.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81339,
+          43.46258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 4.51,
+        "dc:modified": "2018-02-08T08:35:15Z",
+        "dc:identifier": 215,
+        "ayto:light": 5.67,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/215.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81365,
+          43.46287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 4.25,
+        "dc:modified": "2018-02-08T08:34:50Z",
+        "dc:identifier": 225,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/225.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81312,
+          43.46217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 5.61,
+        "dc:modified": "2018-02-08T08:34:37Z",
+        "dc:identifier": 214,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/214.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81368,
+          43.46311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 5.35,
+        "dc:modified": "2018-02-08T08:34:32Z",
+        "dc:identifier": 229,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/229.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81199,
+          43.46216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 4.83,
+        "dc:modified": "2018-02-08T08:33:56Z",
+        "dc:identifier": 221,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/221.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81277,
+          43.46229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 4.77,
+        "dc:modified": "2018-02-08T08:33:35Z",
+        "dc:identifier": 209,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/209.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81343,
+          43.46328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 5.48,
+        "dc:modified": "2018-02-08T08:33:26Z",
+        "dc:identifier": 230,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/230.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81176,
+          43.46216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": 69.5,
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2018-02-08T08:31:59Z",
+        "dc:identifier": 226,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/226.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8116,
+          43.46244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": 67.5,
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2018-02-06T03:37:05Z",
+        "dc:identifier": 742,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/742.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81848,
+          43.46078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 5.09,
+        "dc:modified": "2018-02-06T03:36:54Z",
+        "dc:identifier": 686,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/686.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81936,
+          43.46056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 7.03,
+        "dc:modified": "2018-02-06T03:36:25Z",
+        "dc:identifier": 692,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/692.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82137,
+          43.4597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 7.29,
+        "dc:modified": "2018-02-06T03:35:31Z",
+        "dc:identifier": 673,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/673.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82223,
+          43.45943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 5.8,
+        "dc:modified": "2018-02-06T03:35:25Z",
+        "dc:identifier": 668,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/668.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81907,
+          43.46029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 5.48,
+        "dc:modified": "2018-02-06T03:35:17Z",
+        "dc:identifier": 682,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/682.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81944,
+          43.46017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 4.24,
+        "dc:modified": "2018-02-06T03:35:08Z",
+        "dc:identifier": 661,
+        "ayto:light": "2.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/661.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81873,
+          43.46039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "50.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2018-02-06T03:34:09Z",
+        "dc:identifier": 743,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/743.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82485,
+          43.45903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2018-02-06T03:33:59Z",
+        "dc:identifier": 678,
+        "ayto:light": 0.1,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/678.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81765,
+          43.46069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 5.54,
+        "dc:modified": "2018-02-06T03:33:37Z",
+        "dc:identifier": 689,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/689.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.821,
+          43.46008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 4.9,
+        "dc:modified": "2018-02-06T03:33:14Z",
+        "dc:identifier": 656,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/656.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82042,
+          43.45993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 7.29,
+        "dc:modified": "2018-02-06T03:32:44Z",
+        "dc:identifier": 243,
+        "ayto:light": 0.07,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/243.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8052,
+          43.46239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2018-02-06T03:32:32Z",
+        "dc:identifier": 681,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/681.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82551,
+          43.45859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 5.74,
+        "dc:modified": "2018-02-06T03:28:13Z",
+        "dc:identifier": 691,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/691.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81887,
+          43.46068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 10.45,
+        "dc:modified": "2018-01-25T09:25:20Z",
+        "dc:identifier": 345,
+        "ayto:light": 301.23,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/345.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80582,
+          43.46339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2018-01-11T02:13:26Z",
+        "dc:identifier": 623,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/623.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80973,
+          43.45733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 13.8,
+        "dc:modified": "2017-12-14T19:35:28Z",
+        "dc:identifier": 61,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/61.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.808,
+          43.46086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2017-12-14T19:31:08Z",
+        "dc:identifier": 420,
+        "ayto:light": 0.07,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/420.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80836,
+          43.46173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": 67.7,
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2017-12-14T19:31:08Z",
+        "dc:identifier": 429,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/429.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81093,
+          43.46168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "58.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2017-12-14T14:47:16Z",
+        "dc:identifier": 424,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/424.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8093,
+          43.4615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2017-12-14T14:37:21Z",
+        "dc:identifier": 412,
+        "ayto:light": 66.14,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/412.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80949,
+          43.46152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "NoiseLevelObserved",
+        "ayto:noise": "75.0",
+        "ayto:battery": "",
+        "ayto:temperature": "",
+        "dc:modified": "2017-12-14T14:37:03Z",
+        "dc:identifier": 207,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/207.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80852,
+          43.46128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 13.61,
+        "dc:modified": "2017-12-14T10:43:27Z",
+        "dc:identifier": 204,
+        "ayto:light": 476.83,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/204.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80839,
+          43.46202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 11.35,
+        "dc:modified": "2017-12-14T07:41:55Z",
+        "dc:identifier": 60,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/60.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80802,
+          43.46078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 12.06,
+        "dc:modified": "2017-12-14T06:21:02Z",
+        "dc:identifier": 203,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/203.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80864,
+          43.46218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 11.67,
+        "dc:modified": "2017-12-14T05:34:59Z",
+        "dc:identifier": 64,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/64.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80745,
+          43.46156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 11.61,
+        "dc:modified": "2017-12-14T05:34:58Z",
+        "dc:identifier": 425,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/425.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80908,
+          43.4613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 9.8,
+        "dc:modified": "2017-12-14T05:34:47Z",
+        "dc:identifier": 428,
+        "ayto:light": 0.03,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/428.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81068,
+          43.46161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 11.93,
+        "dc:modified": "2017-12-14T05:34:23Z",
+        "dc:identifier": 205,
+        "ayto:light": 0.02,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/205.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80849,
+          43.46157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 9.67,
+        "dc:modified": "2017-12-14T05:33:55Z",
+        "dc:identifier": 421,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/421.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80862,
+          43.4615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2017-12-14T05:33:43Z",
+        "dc:identifier": 426,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/426.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80936,
+          43.46133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 10.77,
+        "dc:modified": "2017-12-14T00:39:56Z",
+        "dc:identifier": 415,
+        "ayto:light": 0.18,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/415.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80822,
+          43.46133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2017-12-14T00:23:53Z",
+        "dc:identifier": 418,
+        "ayto:light": 0.02,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/418.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80775,
+          43.46152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 12.7,
+        "dc:modified": "2017-12-13T23:00:19Z",
+        "dc:identifier": 56,
+        "ayto:light": 0.54,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/56.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80743,
+          43.46102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 12.77,
+        "dc:modified": "2017-12-13T23:00:19Z",
+        "dc:identifier": 411,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/411.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81,
+          43.46144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 11.87,
+        "dc:modified": "2017-12-13T23:00:17Z",
+        "dc:identifier": 62,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/62.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80786,
+          43.4609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 12.25,
+        "dc:modified": "2017-12-13T22:05:28Z",
+        "dc:identifier": 57,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/57.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80778,
+          43.46096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 13.74,
+        "dc:modified": "2017-12-13T20:00:59Z",
+        "dc:identifier": 202,
+        "ayto:light": 0.13,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/202.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80892,
+          43.46217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "9.0",
+        "dc:modified": "2017-12-11T06:51:52Z",
+        "dc:identifier": 251,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/251.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80332,
+          43.46225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2017-12-10T04:24:19Z",
+        "dc:identifier": 180,
+        "ayto:light": 15.46,
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/180.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79621,
+          43.46301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": "0.0",
+        "dc:modified": "2017-12-01T21:50:53Z",
+        "dc:identifier": 319,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/319.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80318,
+          43.46291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": -36.58,
+        "dc:modified": "2017-10-18T08:37:11Z",
+        "dc:identifier": 93,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/93.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80812,
+          43.46074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": -39.09,
+        "dc:modified": "2017-10-18T08:35:44Z",
+        "dc:identifier": 74,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/74.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8076,
+          43.46138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 228.77,
+        "dc:modified": "2017-10-16T05:56:30Z",
+        "dc:identifier": 66,
+        "ayto:light": "",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/66.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80669,
+          43.46162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ayto:type": "WeatherObserved",
+        "ayto:noise": "",
+        "ayto:battery": "",
+        "ayto:temperature": 17.35,
+        "dc:modified": "2017-10-04T07:02:58Z",
+        "dc:identifier": 558,
+        "ayto:light": "0.0",
+        "uri": "http://datos.santander.es/api/datos/sensores_smart_env_monitoring/558.json"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82911,
+          43.45075
+        ]
+      }
+    }
+  ]
+}
